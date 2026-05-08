@@ -1,0 +1,9 @@
+[submodule "repos/STEREONET-MODEL-TRAINING"]
+	path = repos/STEREONET-MODEL-TRAINING
+	url = https://github.com/JohnMugabe3/STEREONET-MODEL-TRAINING.git
+[submodule "repos/COLLISION-PREDICTION-ALGORITHMS"]
+	path = repos/COLLISION-PREDICTION-ALGORITHMS
+	url = https://github.com/JohnMugabe3/COLLISION-PREDICTION-ALGORITHMS.git
+[submodule "repos/GENERAL-IMPLEMENTATION-CODE"]
+	path = repos/GENERAL-IMPLEMENTATION-CODE
+	url = https://github.com/JohnMugabe3/GENERAL-IMPLEMENTATION-CODE.git
